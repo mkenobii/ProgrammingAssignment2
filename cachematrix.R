@@ -31,19 +31,3 @@ cacheSolve <- function(x, ...) {
          x$setinverse(m)
          m
 =======
-## Put comments here that give an overall description of what your
-## functions do
-
-## Write a short comment describing this function
-
-makeCacheMatrix <- function(x = matrix()) {
-
-}
-
-
-## Write a short comment describing this function
-
-cacheSolve <- function(x, ...) {
->>>>>>> 5717e67f7eb7d7bf4684c4067ea865cde2e0a3b0
-        ## Return a matrix that is the inverse of 'x'
-}
